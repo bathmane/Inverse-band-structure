@@ -1,0 +1,33 @@
+
+ ----- CPU times:-------
+
+ Naive SD = 1666.04383
+ Naive PR = 1.69460
+ Naive BFGS = 19.20704
+ Adaptive SD = 1588.85249
+ Adaptive PR = 10.25769
+ Adaptive BFGS = 9.49326
+ ----- Relative CPU times:-------
+
+ Naive SD = 1.00000
+ Naive PR = 0.00102
+ Naive BFGS = 0.01153
+ Adaptive SD = 0.95367
+ Adaptive PR = 0.00616
+ Adaptive BFGS = 0.00570
+ ----- CPU times:-------
+
+ Naive SD = 1657.13358
+ Naive PR = 1.44875
+ Naive BFGS = 19.42624
+ Adaptive SD = 1921.46836
+ Adaptive PR = 9.52517
+ Adaptive BFGS = 9.48254
+ ----- Relative CPU times:-------
+
+ Naive SD = 1.00000
+ Naive PR = 0.00087
+ Naive BFGS = 0.01172
+ Adaptive SD = 1.15951
+ Adaptive PR = 0.00575
+ Adaptive BFGS = 0.00572
