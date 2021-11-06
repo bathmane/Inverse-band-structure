@@ -18,5 +18,7 @@ for m =1:M
 end
 cosst = (1/Q)*temp; 
 
+% Ok 
+
 
 end
